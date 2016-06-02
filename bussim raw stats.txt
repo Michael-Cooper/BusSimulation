@@ -1,0 +1,416 @@
+upper number indicates 80% are below 30 minute wait
+
+running 5 hour tests. The long tests ensure we find a solid equalibrium that is maintained
+for the long duration.
+
+     
+
+_____________________________________________________________________________________
+
+
+
+1bus
+
+200: upper frequency number ~310 riders/hr - every stop averaging 1 person every ~3 1/2 minutes
+average queue length: 4
+-------------------------------------------------------------
+1549 total riders
+1450 total riders moved completely through the system and exited
+
+Average wait time: 8 minutes 34 seconds
+
+Riders waiting <2 minutes: 12.07%
+Riders waiting 2-5 minutes: 17.59%
+Riders waiting 5-10 minutes: 29.45%
+Riders waiting 10-15 minutes: 26.97%
+Riders waiting 15-20 minutes: 13.93%
+Riders waiting 20-30 minutes: 0%
+Riders waiting 30+ minutes: 0%
+-------------------------------------------------------------
+
+172: lower frequency number: ~350 riders/hr - every stop averaging 1 person every ~3 minutes
+average queue length: 8
+---------------------------------------------------------
+1791 total riders
+1595 total riders moved completely through the system and exited
+
+Average wait time: 14 minutes 1 seconds
+
+Riders waiting <2 minutes: 7.15%
+Riders waiting 2-5 minutes: 10.85%
+Riders waiting 5-10 minutes: 19.25%
+Riders waiting 10-15 minutes: 21.63%
+Riders waiting 15-20 minutes: 20.5%
+Riders waiting 20-30 minutes: 14.36%
+Riders waiting 30+ minutes: 6.27%
+---------------------------------------------------------
+
+__________________________________________________________________________________
+
+
+
+2 busses
+
+
+172: upper frequency number: ~350 riders/hr - every stop averaging 1 person every ~3 minutes
+average queue length: 3
+------------------------------------------------------------
+1788 total riders
+1724 total riders moved completely through the system and exited
+
+Average wait time: 5 minutes 14 seconds
+
+Riders waiting <2 minutes: 20.24%
+Riders waiting 2-5 minutes: 27.38%
+Riders waiting 5-10 minutes: 45.42%
+Riders waiting 10-15 minutes: 6.96%
+Riders waiting 15-20 minutes: 0%
+Riders waiting 20-30 minutes: 0%
+Riders waiting 30+ minutes: 0%
+-------------------------------------------------------------
+
+80: lower frequency number ~720 riders/hr - every stop averaging 1 person every ~1 1/2 minutes
+average queue length: 18
+---------------------------------------------------------------
+3612 total riders
+3201 total riders moved completely through the system and exited
+
+Average wait time: 14 minutes 21 seconds
+
+Riders waiting <2 minutes: 6.37%
+Riders waiting 2-5 minutes: 9.65%
+Riders waiting 5-10 minutes: 20.18%
+Riders waiting 10-15 minutes: 21.59%
+Riders waiting 15-20 minutes: 20.4%
+Riders waiting 20-30 minutes: 15%
+Riders waiting 30+ minutes: 6.81%
+----------------------------------------------------------------
+
+_________________________________________________________________________________
+
+
+
+3 busses
+
+
+80: upper frequency number ~720 riders/hr - every stop averaging 1 person every ~1 1/2 minutes
+average queue length: 8
+----------------------------------------------------------------
+3611 total riders
+3443 total riders moved completely through the system and exited
+
+Average wait time: 6 minutes 2 seconds
+
+Riders waiting <2 minutes: 20.21%
+Riders waiting 2-5 minutes: 22.77%
+Riders waiting 5-10 minutes: 36.86%
+Riders waiting 10-15 minutes: 20.16%
+Riders waiting 15-20 minutes: 0%
+Riders waiting 20-30 minutes: 0%
+Riders waiting 30+ minutes: 0%
+-------------------------------------------------------------------
+
+50: lower frequency number ~1080 riders/hr - every stop averaging 1 person every ~1 minute
+average queue length: 26
+---------------------------------------------------------------
+5413 total riders
+4824 total riders moved completely through the system and exited
+
+Average wait time: 13 minutes 43 seconds
+
+Riders waiting <2 minutes: 7.44%
+Riders waiting 2-5 minutes: 9.27%
+Riders waiting 5-10 minutes: 19.42%
+Riders waiting 10-15 minutes: 22.37%
+Riders waiting 15-20 minutes: 20.81%
+Riders waiting 20-30 minutes: 16.38%
+Riders waiting 30+ minutes: 4.31%
+---------------------------------------------------------------
+
+_________________________________________________________________________________
+
+
+
+4 busses
+
+
+50: upper frequency number ~1080 riders/hr - every stop averaging 1 person every ~1 minute
+average queue length: 12
+---------------------------------------------------------------
+5397 total riders
+5116 total riders moved completely through the system and exited
+
+Average wait time: 6 minutes 12 seconds
+
+Riders waiting <2 minutes: 22.58%
+Riders waiting 2-5 minutes: 20.91%
+Riders waiting 5-10 minutes: 32.84%
+Riders waiting 10-15 minutes: 23.67%
+Riders waiting 15-20 minutes: 0%
+Riders waiting 20-30 minutes: 0%
+Riders waiting 30+ minutes: 0%
+----------------------------------------------------------------
+
+35: lower frequency number ~1440 riders/hr - every stop averaging 1 person every ~45 seconds
+average queue length: 35
+---------------------------------------------------------------
+7204 total riders
+6437 total riders moved completely through the system and exited
+
+Average wait time: 13 minutes 8 seconds
+
+Riders waiting <2 minutes: 8.51%
+Riders waiting 2-5 minutes: 9.63%
+Riders waiting 5-10 minutes: 19.76%
+Riders waiting 10-15 minutes: 22.09%
+Riders waiting 15-20 minutes: 21.14%
+Riders waiting 20-30 minutes: 15.95%
+Riders waiting 30+ minutes: 2.91%
+---------------------------------------------------------------
+
+____________________________________________________________________________________
+
+
+
+5 busses
+
+
+35: upper frequency number ~1440 riders/hr - every stop averaging 1 person every ~45 seconds
+average queue length: 17
+---------------------------------------------------------------
+7201 total riders
+6803 total riders moved completely through the system and exited
+
+Average wait time: 6 minutes 16 seconds
+
+Riders waiting <2 minutes: 24.37%
+Riders waiting 2-5 minutes: 20.55%
+Riders waiting 5-10 minutes: 29.72%
+Riders waiting 10-15 minutes: 24.74%
+Riders waiting 15-20 minutes: 0.62%
+Riders waiting 20-30 minutes: 0%
+Riders waiting 30+ minutes: 0%
+----------------------------------------------------------------
+
+26: lower frequency number ~1800 riders/hr - every stop averaging 1 person every ~36 seconds
+average queue length: 42
+---------------------------------------------------------------
+9019 total riders
+8041 total riders moved completely through the system and exited
+
+Average wait time: 12 minutes 28 seconds
+
+Riders waiting <2 minutes: 10.63%
+Riders waiting 2-5 minutes: 11.52%
+Riders waiting 5-10 minutes: 20.88%
+Riders waiting 10-15 minutes: 20.68%
+Riders waiting 15-20 minutes: 18.94%
+Riders waiting 20-30 minutes: 13.59%
+Riders waiting 30+ minutes: 3.76%
+----------------------------------------------------------------
+
+_________________________________________________________________________________________
+
+
+
+6 busses
+
+
+26: upper frequency number ~1800 riders/hr - every stop averaging 1 person every ~36 seconds
+average queue length: 21
+-----------------------------------------------------------------
+9035 total riders - every stop averaging 1 person every ~36 seconds
+8527 total riders moved completely through the system and exited
+
+Average wait time: 6 minutes 24 seconds
+
+Riders waiting <2 minutes: 26.28%
+Riders waiting 2-5 minutes: 18.65%
+Riders waiting 5-10 minutes: 27.58%
+Riders waiting 10-15 minutes: 25.04%
+Riders waiting 15-20 minutes: 2.45%
+Riders waiting 20-30 minutes: 0%
+Riders waiting 30+ minutes: 0%
+-----------------------------------------------------------------
+
+20: lower frequency number ~2160 riders/hr - every stop averaging 1 person every ~30 seconds
+average queue length: 48
+-----------------------------------------------------------------
+10821 total riders
+9693 total riders moved completely through the system and exited
+
+Average wait time: 12 minutes 3 seconds
+
+Riders waiting <2 minutes: 10.72%
+Riders waiting 2-5 minutes: 11.99%
+Riders waiting 5-10 minutes: 20.34%
+Riders waiting 10-15 minutes: 21.46%
+Riders waiting 15-20 minutes: 19.84%
+Riders waiting 20-30 minutes: 13.92%
+Riders waiting 30+ minutes: 1.73%
+------------------------------------------------------------------
+
+__________________________________________________________________________________________
+
+
+
+7 busses
+
+
+20: upper frequency number ~2160 riders/hr - every stop averaging 1 person every ~30 seconds
+average queue length: 25
+------------------------------------------------------------------
+10789 total riders
+10167 total riders moved completely through the system and exited
+
+Average wait time: 6 minutes 17 seconds
+
+Riders waiting <2 minutes: 27.09%
+Riders waiting 2-5 minutes: 19.18%
+Riders waiting 5-10 minutes: 26.96%
+Riders waiting 10-15 minutes: 23.6%
+Riders waiting 15-20 minutes: 3.18%
+Riders waiting 20-30 minutes: 0%
+Riders waiting 30+ minutes: 0%
+-----------------------------------------------------------------
+
+15: lower frequency number ~2600 riders/hr - every stop averaging 1 person every ~25 seconds
+average queue length: 66
+-----------------------------------------------------------------
+13014 total riders
+11379 total riders moved completely through the system and exited
+
+Average wait time: 14 minutes 31 seconds
+
+Riders waiting <2 minutes: 8.56%
+Riders waiting 2-5 minutes: 8.38%
+Riders waiting 5-10 minutes: 16.69%
+Riders waiting 10-15 minutes: 21.11%
+Riders waiting 15-20 minutes: 17.73%
+Riders waiting 20-30 minutes: 21.86%
+Riders waiting 30+ minutes: 5.67%
+-----------------------------------------------------------------
+
+__________________________________________________________________________________________
+
+
+
+8 busses
+
+15: upper frequency number ~2600 riders/hr - every stop averaging 1 person every ~25 seconds
+average queue length: 33
+-----------------------------------------------------------------
+12973 total riders - every stop averaging 1 person every ~25 seconds
+12119 total riders moved completely through the system and exited
+
+Average wait time: 7 minutes 5 seconds
+
+Riders waiting <2 minutes: 23.83%
+Riders waiting 2-5 minutes: 18.07%
+Riders waiting 5-10 minutes: 25.85%
+Riders waiting 10-15 minutes: 22.84%
+Riders waiting 15-20 minutes: 9.41%
+Riders waiting 20-30 minutes: 0%
+Riders waiting 30+ minutes: 0%
+-----------------------------------------------------------------
+
+12: lower frequency number ~2930 riders/hr - every stop averaging 1 person every ~22 seconds
+average queue length: 70
+-----------------------------------------------------------------
+14683 total riders
+12973 total riders moved completely through the system and exited
+
+Average wait time: 13 minutes 32 seconds
+
+Riders waiting <2 minutes: 10.75%
+Riders waiting 2-5 minutes: 9.37%
+Riders waiting 5-10 minutes: 17.31%
+Riders waiting 10-15 minutes: 19.96%
+Riders waiting 15-20 minutes: 19.83%
+Riders waiting 20-30 minutes: 18.99%
+Riders waiting 30+ minutes: 3.79%
+-----------------------------------------------------------------
+
+___________________________________________________________________________________________
+
+
+
+9 busses
+
+12: upper frequency number ~2930 riders/hr - every stop averaging 1 person every ~22 seconds
+average queue length: 38
+----------------------------------------------------------------
+14756 total riders
+13793 total riders moved completely through the system and exited
+
+Average wait time: 7 minutes 3 seconds
+
+Riders waiting <2 minutes: 25.16%
+Riders waiting 2-5 minutes: 17.67%
+Riders waiting 5-10 minutes: 25%
+Riders waiting 10-15 minutes: 21.92%
+Riders waiting 15-20 minutes: 10.25%
+Riders waiting 20-30 minutes: 0%
+Riders waiting 30+ minutes: 0%
+----------------------------------------------------------------
+
+10: lower frequency number ~3240 riders/hr - every stop averaging 1 person every ~20 seconds
+average queue length: 65
+---------------------------------------------------------------
+16214 total riders
+14552 total riders moved completely through the system and exited
+
+Average wait time: 11 minutes 30 seconds
+
+Riders waiting <2 minutes: 12.62%
+Riders waiting 2-5 minutes: 11.5%
+Riders waiting 5-10 minutes: 20.77%
+Riders waiting 10-15 minutes: 21.42%
+Riders waiting 15-20 minutes: 19.73%
+Riders waiting 20-30 minutes: 13.08%
+Riders waiting 30+ minutes: 0.89%
+----------------------------------------------------------------
+
+___________________________________________________________________________________________
+
+
+
+10 busses
+
+10: upper frequency number ~3240 riders/hr - every stop averaging 1 person every ~20 seconds
+average queue length: 40
+---------------------------------------------------------------
+16202 total riders
+15163 total riders moved completely through the system and exited
+
+Average wait time: 7 minutes 1 seconds
+
+Riders waiting <2 minutes: 24.78%
+Riders waiting 2-5 minutes: 16.84%
+Riders waiting 5-10 minutes: 26.44%
+Riders waiting 10-15 minutes: 23.22%
+Riders waiting 15-20 minutes: 8.71%
+Riders waiting 20-30 minutes: 0%
+Riders waiting 30+ minutes: 0%
+---------------------------------------------------------------
+
+8: lower frequency number ~3590 riders/hr - every stop averaging 1 person every ~18 seconds
+average queue length: 80
+---------------------------------------------------------------
+17967 total riders
+16120 total riders moved completely through the system and exited
+
+Average wait time: 12 minutes 23 seconds
+
+Riders waiting <2 minutes: 10.03%
+Riders waiting 2-5 minutes: 9.58%
+Riders waiting 5-10 minutes: 20.45%
+Riders waiting 10-15 minutes: 22.67%
+Riders waiting 15-20 minutes: 21.38%
+Riders waiting 20-30 minutes: 14.4%
+Riders waiting 30+ minutes: 1.48%
+----------------------------------------------------------------
+
+_____________________________________________________________________________________________
+
+
